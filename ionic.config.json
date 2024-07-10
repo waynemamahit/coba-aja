@@ -1,0 +1,7 @@
+{
+  "name": "CobaAja",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
